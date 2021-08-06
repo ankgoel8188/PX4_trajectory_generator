@@ -15,7 +15,7 @@ sigma = sign(x_r);
 T1 = v_max/a_max
 x_T1 = 0.5*a_max*T1^2;
 
-if abs(x_r) < abs(x_T1)
+if abs(x_r) < 2*abs(x_T1)
     
     v_max_bar   = sqrt(abs(x_r) * a_max);
     T1_bar      = sqrt(abs(x_r) / a_max);
