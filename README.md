@@ -2,3 +2,5 @@
 
 Generates a trajectory given waypoint coordinates. 
 The generated trajectory satisfies specified maximum velocity and acceleration. 
+
+Waypoints are specified in generate_trajectory.m
