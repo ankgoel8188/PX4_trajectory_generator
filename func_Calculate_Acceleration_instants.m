@@ -1,4 +1,4 @@
-function [Acc_data] = Calculate_Acceleration_instants(Rc,Rd,v_max,a_max)
+function [Acc_data] = func_Calculate_Acceleration_instants(Rc,Rd,v_max,a_max)
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here
 

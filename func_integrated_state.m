@@ -1,4 +1,4 @@
-function [q,v] = integrated_state(t, T0, Acc_data)
+function [q,v] = func_integrated_state(t, T0, Acc_data)
 
 % t = t-T0;
 if t < T0
