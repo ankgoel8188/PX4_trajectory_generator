@@ -21,5 +21,4 @@ Acc_data.T2 = T2;
 Acc_data.Tf = Tf;
 Acc_data.a_max = a_max;
 
-
 end
